@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.banderas{
+display: inline-block;
+padding: 100px 100px;
+margin: 100px;
+
+}
+
+
+.españa{
+width: 400px;
+height: 250px;
+border: 1px solid;
+display: inline-block;
+background: red;
+margin-left: 50px;
+}
+
+.amarillo{
+    height: 100px;
+    background: yellow;
+    position: relative;
+    top: 70px;
+}
+
+
+
+
+
+.dinamarca{
+width: 400px;
+height: 250px;
+border: 1px solid;
+display: inline-block;
+background: red;
+margin-left: 50px;
+position: relative;
+
+}
+
+.blanco{
+
+background: white;
+width: 100%;
+height: 40px;
+position: absolute;
+top: 100px;
+
+}
+
+.blanco2{
+
+background: white;
+width: 40px;
+height:100% ;
+position: absolute;
+
+left: 100px;
+}
+
+
+
+
+
+
+.emiratos{
+width: 400px;
+height: 250px;
+border: 1px solid;
+display: inline-block;
+background: red;
+margin-left: 50px;
+margin-top: 100px;
+position: relative;
+}
+
+.negro{
+
+background: black;
+width: 80%;
+height: 83px;
+position: absolute;
+margin-left: 80px;
+bottom: 0px;
+}
+
+.verde{
+height: 60px;
+position: absolute;
+margin-left: 80px;
+background: green;
+width: 80%;
+height: 83px;
+padding-left: 30px;
+}
+
+.blanco3{
+
+height: 60px;
+position: absolute;
+margin-left: 80px;
+background: white;
+width: 80%;
+height: 83px;
+top: 83px;
+
+}
+
+
+
+
+
+.japon{
+width: 400px;
+height: 250px;
+border: 1px solid;
+display: inline-block;
+margin-left: 50px;
+}
+
+
+.rojo_japon{
+background: red;
+height: 130px;
+width: 130px;
+border-radius: 50%;
+position: relative;
+top: 60px;
+left: 138px;
+}
+

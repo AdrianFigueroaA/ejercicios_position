@@ -1,0 +1,10 @@
+.imagen{
+
+    position: relative;
+    width: 100vw;
+}
+
+.logo{
+position: absolute;
+right: 0;
+}

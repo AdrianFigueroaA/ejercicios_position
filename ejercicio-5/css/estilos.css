@@ -1,0 +1,14 @@
+.imagen{
+
+    background-image: url(../img/ejercicio-5_item.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    position: relative;
+   
+
+}
+
+.oferta{
+
+    position:absolute;
+}

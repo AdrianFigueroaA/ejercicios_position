@@ -1,0 +1,18 @@
+.imagen{
+
+position: relative;
+background-image: url(../img/ejercicio-6.png);
+background-repeat: no-repeat;
+height: 211px;
+width: 208px;
+}
+
+
+.despacho{
+
+position: absolute;
+bottom: 0;
+height: 50px;
+right: 0;
+top: 150px;
+}

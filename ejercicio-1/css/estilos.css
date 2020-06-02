@@ -1,0 +1,30 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nav{
+background: green;
+width: 100%;
+height: 100px;
+position: fixed;
+}
+
+
+.img{
+
+display: inline-block;
+width: 24%;
+text-align: left;
+
+}
+
+.main{
+
+
+    padding: 300px 50px;
+
+}

@@ -1,0 +1,24 @@
+
+  body {
+
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .main {
+    background-color: #B0CCAB;
+    padding: 50px 370px;
+    position: relative;
+    height: 200px;
+}
+           
+    
+
+.main__paragraph {
+        
+position: absolute;
+                padding-right: 268px;
+    padding-left: 40px;
+
+        }
